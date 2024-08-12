@@ -1,4 +1,3 @@
-```markdown
 # Graph Analysis Project
 
 ## Project Overview
